@@ -2,7 +2,7 @@
 
 A powerful and intelligent course search engine built with Streamlit and Elasticsearch that helps users find relevant online courses through advanced search algorithms and natural language processing.
 
-![Image](https://github.com/user-attachments/assets/2aaeb798-810b-4cf3-ac39-2584495aed15)
+
 
 ![Smart Search Engine](https://github.com/user-attachments/assets/2aaeb798-810b-4cf3-ac39-2584495aed15)
 
@@ -46,9 +46,9 @@ pip install -r requirements.txt
 ```
 
 3. **Set up environment variables**
-- You will need to create an account on the [Elastic search website](https://www.elastic.co/elasticsearch).
-- Then create a new project (I chose 14 days free trial)
-- Give Index Name (I named it as search tool).
+- You must create an account on the [Elastic search website](https://www.elastic.co/elasticsearch).
+- Then create a new project (I chose 14 day free trial)
+- Give the index name (I named it a search tool).
   
 ![Image](https://github.com/user-attachments/assets/b05e4092-b6b4-4cf0-a2a3-1fc9b6e73473)
 
@@ -128,7 +128,7 @@ graph LR
 
 
 ![Image](https://github.com/user-attachments/assets/052e9b89-4edc-4126-8a0a-9cc1ac0acc49)
-Search for python courses. So python is highlighted
+Search for Python courses. So Python is highlighted
 
 ![Image](https://github.com/user-attachments/assets/9a7d974a-0f7a-4209-90cf-2a70a53e0fac)
 Search for machi learni --> Textblob corrected the spelling to Machine Learning --> machine learning courses are displayed with highlighted correct spelling.
