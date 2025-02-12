@@ -66,7 +66,7 @@ ELASTICSEARCH_API_KEY=your_api_key
 streamlit run app.py
 ```
 
-## 🎯 Core Features Explained
+## 🎯 Core Features
 
 ### 1. Intelligent Search
 - Implements fuzzy matching for typo tolerance
@@ -123,6 +123,10 @@ graph LR
     E --> F[Highlighting]
     F --> G[UI Rendering]
 ```
+
+![Image](https://github.com/user-attachments/assets/bb48d50f-5707-4853-a45b-e74a2ebef8cf)
+
+---
 ## Images and UI Screenshots
 ![Image](https://github.com/user-attachments/assets/7c4dbf68-9ea8-4c3c-b983-d5f3b78d4cb6)
 
